@@ -1,4 +1,4 @@
-# Blender Docs Dark Theme
+## Blender Docs Dark Theme
 Simple dark Blender Docs UserCSS style, took a whole and a half minute and it's literally four lines of code.
 
 ### Installation:
