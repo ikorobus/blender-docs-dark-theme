@@ -7,4 +7,4 @@ To use this you need the Stylus extension for [Chrome](https://chrome.google.com
 [![Install](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/ikorobus/dynasty-scans-dark-theme/main/dsdt.user.css)
 
 ### Screenshot:
-<img align="center" src="https://raw.githubusercontent.com/ikorobus/dynasty-scans-dark-theme/main/sample01.png"></img>
+<img align="center" src="https://raw.githubusercontent.com/ikorobus/blender-docs-dark-theme/main/sample01.png"></img>
